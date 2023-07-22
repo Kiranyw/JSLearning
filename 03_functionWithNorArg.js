@@ -32,3 +32,14 @@ console.log('Result is ', resultValue);
 
 var result =addition('GK', 'Pune', 88);
 console.log('Result is ', result);
+
+function display(){
+    return "Learning JS";
+}
+var resultDisplay = display();
+console.log();
+
+
+var greet = "Good Morning";
+var lengthGreet= greet.length;
+console.log(greet,'Length of String is:', lengthGreet);
