@@ -25,3 +25,4 @@ let professor={
  console.table(professor);
  let lastcertificate= professor.certificates.pop;
  console.log(lastcertificate);
+ 
