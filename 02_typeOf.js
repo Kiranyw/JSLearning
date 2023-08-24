@@ -19,7 +19,7 @@ console.log("the total count is",totalCount);
 console.log("Type of variable total count is",typeof totalCount);
 var salary=null;
 console.log( typeof null);
-log
+
 
 
 
